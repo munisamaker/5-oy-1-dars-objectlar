@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 400px;
+    margin: 40px auto;
+    display: flex;
+}
+.card{
+    box-shadow: 0px 0px 0px 20px rgb(231, 226, 226);
+    border-radius: 10px;
+}
+.card-body{
+    padding: 10px 16px;
+    padding-left: 70px;
+}
